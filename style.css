@@ -70,6 +70,10 @@
     color: #E01E26;
 }
 
+.menu-option a:active {
+    color: #E01E26;
+}
+
 /* nav-bar, button */
 #Nav-Bar > button{
     display: flex;
