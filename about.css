@@ -1223,8 +1223,7 @@
 @media (max-width: 530Px) {
 
     #third {
-        height: 2100px;
-        background-color: #30557F;
+        height: 2600px;
     }
     
 
@@ -1255,7 +1254,7 @@
     height: 691px;
     flex-wrap: wrap;
     row-gap: 28px;
-    top: 1200px;
+    top: 1800px;
     align-items: center;
     justify-content: center;
 }
